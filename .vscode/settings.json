@@ -1,0 +1,9 @@
+{
+    "python.analysis.extraPaths": [
+        "./Herencia",
+        "./HerenciaMultiple",
+        "./HerenciaMultiple",
+        "./ContextoEstatico",
+        "./DisenoClases"
+    ]
+}
