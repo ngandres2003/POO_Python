@@ -4,6 +4,8 @@
         "./HerenciaMultiple",
         "./HerenciaMultiple",
         "./ContextoEstatico",
-        "./DisenoClases"
+        "./DisenoClases",
+        "./Poliforfismo",
+        "./LaboratorioMundoPc"
     ]
 }
